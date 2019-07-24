@@ -1,0 +1,3 @@
+[submodule "NewsGroup_Repo"]
+	path = NewsGroup_Repo
+	url = https://github.com/phenomenalDenzel/NewsGroup_Repo.git

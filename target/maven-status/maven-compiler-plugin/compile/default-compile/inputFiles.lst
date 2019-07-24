@@ -1,0 +1,15 @@
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/utils/Link.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/utils/AuthenticationUtils.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/CommentFacade.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/entities/Staff.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/services/SignupService.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/utils/Message.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/entities/News.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/AppConfig.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/AbstractFacade.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/NewsFacade.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/entities/UserProfile.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/entities/Comment.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/UserProfileFacade.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/resouces/Signup.java
+/home/denzel/NetBeansProjects/newsGroup/src/main/java/com/mycompany/newsgroup/filter/SecurityFilter.java
